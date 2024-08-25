@@ -27,3 +27,6 @@ description: Computer Science Capstone
 ## My Portfolio as a Whole
 - All three enhancements were done on the same artifact. This artifact was a strong choice because it is a complex, full-stack program that uses a database, and has many interactive elements on the front-end.
 - As a whole, these three enhancements work together to provide a full-stack program that is well-designed and contains many useful interactive elements that allow the user to sort, filter, and visualize the data. The project demonstrates my knowledge of JavaScript, HTML, and CSS. It also demonstrates my ability to incorporate data structures and algorithms in to a program to solve a real-world problem. Finally, it demonstrates my ability to create a MySQL database and display its data in a webpage.
+
+### Code Review Video
+
