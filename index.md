@@ -32,7 +32,7 @@ description: Computer Science Capstone
 Here is a video demonstrating the code review process:
 
 <video width="600" controls>
-  <source src="Code%20Review/Code%20Review%Video.mp4" type="video/mp4">
+  <source src="code_review/code_review_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
