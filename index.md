@@ -25,10 +25,12 @@ description: Computer Science Capstone
 
 
 ## My Portfolio as a Whole
+
 - All three enhancements were done on the same artifact. This artifact was a strong choice because it is a complex, full-stack program that uses a database, and has many interactive elements on the front-end.
 - As a whole, these three enhancements work together to provide a full-stack program that is well-designed and contains many useful interactive elements that allow the user to sort, filter, and visualize the data. The project demonstrates my knowledge of JavaScript, HTML, and CSS. It also demonstrates my ability to incorporate data structures and algorithms in to a program to solve a real-world problem. Finally, it demonstrates my ability to create a MySQL database and display its data in a webpage.
 
 ### Code Review Video
+
 Here is a video demonstrating the code review process:
 
 <video width="600" controls>
@@ -37,5 +39,6 @@ Here is a video demonstrating the code review process:
 </video>
 
 ### Original Artifact
+
 For all three enhancements (software engineering, data structures and algorithms, and databases, I am using my project from CS-340 as the artifact. The project is written in python and it uses a MongoDB database to store data.
 [Click here to view the repository of the artifact.](https://github.com/ervin-erkmen/ervin-erkmen.github.io/original_artifact)
