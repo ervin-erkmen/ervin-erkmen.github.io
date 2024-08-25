@@ -1,11 +1,11 @@
 ---
-title: My Project
-description: A brief description of my project.
+title: Ervin Erkmen's CS-499 ePortfolio
+description: CS Capstone.
 ---
 
-# Welcome to My Project
+# Showcasing Strengths
 
-This is a simple project that demonstrates how to set up a GitHub Page using the Cayman theme. Below is an example of what your project’s homepage might look like.
+•	Developing the ePortfolio has improved my coding skills and taught me a lot about data structures, algorithms, and full-stack development.
 
 ## Features
 
