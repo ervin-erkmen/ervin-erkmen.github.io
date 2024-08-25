@@ -9,7 +9,11 @@ This is the homepage of my awesome site. Here you can find various resources and
 
 ## Navigation
 
-- Home
-- About
-- Projects
-- Contact
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Code Review"
+    url: "/code-review"
+
+
