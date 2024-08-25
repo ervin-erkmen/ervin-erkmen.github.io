@@ -36,4 +36,6 @@ Here is a video demonstrating the code review process:
   Your browser does not support the video tag.
 </video>
 
-
+### Original Artifact
+For all three enhancements (software engineering, data structures and algorithms, and databases, I am using my project from CS-340 as the artifact. The project is written in python and it uses a MongoDB database to store data.
+[Click here to view the repository of the artifact.](https://github.com/ervin-erkmen/ervin-erkmen.github.io/original_artifact)
