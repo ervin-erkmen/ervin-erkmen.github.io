@@ -41,4 +41,4 @@ Here is a video demonstrating the code review process:
 ### Original Artifact
 
 For all three enhancements (software engineering, data structures and algorithms, and databases, I am using my project from CS-340 as the artifact. The project is written in python and it uses a MongoDB database to store data.
-[Click here to view the repository of the artifact.]([https://github.com/ervin-erkmen/ervin-erkmen.github.io/original_artifact](https://github.com/ervin-erkmen/ervin-erkmen.github.io/tree/main/original_artifact))
+[Click here to view the repository of the artifact.]([[https://github.com/ervin-erkmen/ervin-erkmen.github.io/original_artifact](https://github.com/ervin-erkmen/ervin-erkmen.github.io/tree/main/original_artifact)](https://github.com/ervin-erkmen/ervin-erkmen.github.io/tree/main/original_artifact))
