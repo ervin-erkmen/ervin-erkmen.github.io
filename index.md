@@ -54,3 +54,6 @@ For this enhancement, I have implemented a linked list and binary search tree wh
 
 ### Databases
 For this enhancement, I have moved the data from MongoDB to MySQL. I have added CRUD (Create, Read, Update, and Delete) operations that allow the data to be reviewed and managed.
+
+# Narratives
+- download our [user guide (PDF)](narratives/Software_Engineering_and_Design.pdf).
