@@ -3,7 +3,8 @@ title: Ervin Erkmen's CS-499 ePortfolio
 description: Computer Science Capstone
 ---
 
-# Showcasing Strengths
+# Professional Self-Assessment
+## Showcasing Strengths
 
 - Developing the ePortfolio has improved my coding skills and taught me a lot about data structures, algorithms, and full-stack development.
 - I learned how to effectively incorporate computer science principles to solve a given problem.
@@ -29,8 +30,7 @@ description: Computer Science Capstone
 - All three enhancements were done on the same artifact. This artifact was a strong choice because it is a complex, full-stack program that uses a database, and has many interactive elements on the front-end.
 - As a whole, these three enhancements work together to provide a full-stack program that is well-designed and contains many useful interactive elements that allow the user to sort, filter, and visualize the data. The project demonstrates my knowledge of JavaScript, HTML, and CSS. It also demonstrates my ability to incorporate data structures and algorithms in to a program to solve a real-world problem. Finally, it demonstrates my ability to create a MySQL database and display its data in a webpage.
 
-### Code Review Video
-
+# Code Review Video
 Here is a video demonstrating the code review process:
 
 <video width="600" controls>
