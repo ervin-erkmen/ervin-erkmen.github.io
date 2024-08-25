@@ -7,8 +7,7 @@ title: Home
 
 This is the homepage of my awesome site. Here you can find various resources and information.
 
-## Navigation
-
+navigation:
   - title: "Home"
     url: "/"
   - title: "About"
