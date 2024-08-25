@@ -46,11 +46,11 @@ For all three enhancements (software engineering, data structures and algorithms
 # Enhancements
 [Click here to view the repository of the artifact that has been enhanced in all three categories.](https://github.com/ervin-erkmen/ervin-erkmen.github.io/tree/main/enhanced_artifact)
 
-## Software Engineering and Design
+### Software Engineering and Design
 For this enhancement, I have converted this artifact into HTML/Javascript. I also added features, such as a homepage and more interactive elements.
 
-## Data Structures and Algorithms
+### Data Structures and Algorithms
 For this enhancement, I have implemented a linked list and binary search tree which facilitate filtering and activity history functions. I have also implemented a quicksort algorithm that allows the user to sort any column in ascending and descending order.
 
-## Databases
+### Databases
 For this enhancement, I have moved the data from MongoDB to MySQL. I have added CRUD (Create, Read, Update, and Delete) operations that allow the data to be reviewed and managed.
