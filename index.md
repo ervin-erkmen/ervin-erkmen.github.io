@@ -1,6 +1,6 @@
 ---
 title: Ervin Erkmen's CS-499 ePortfolio
-description: CS Capstone.
+description: Computer Science Capstone
 ---
 
 # Showcasing Strengths
